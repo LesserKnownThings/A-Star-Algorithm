@@ -1,0 +1,6 @@
+﻿  AStarAlgo.cpp
+  Grid.cpp
+C:\Users\ursum\source\repos\AStarAlgo\AStarAlgo\Grid.cpp(113,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Renderer.cpp
+  Generating Code...
+  AStarAlgo.vcxproj -> C:\Users\ursum\source\repos\AStarAlgo\x64\Debug\AStarAlgo.exe
